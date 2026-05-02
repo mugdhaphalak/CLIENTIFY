@@ -7,7 +7,7 @@
 ## Overview
 
 CLIENTIFY is a full-stack AI-powered company intelligence platform designed to streamline client acquisition.
-It integrates market research, decision-maker identification, competitor analysis, and outreach planning into a single system.
+It integrates market research, decision-maker identification, competitor analysis, outreach planning etc. into a single system.
 
 The platform uses a modular **agent-based backend architecture** combined with a **React-based frontend dashboard** to deliver structured and actionable insights.
 
@@ -25,10 +25,6 @@ The platform uses a modular **agent-based backend architecture** combined with a
 
 * Node.js
 * Express.js
-
-**Architecture**
-
-* Agent-based system (Research, People, Outreach, Tracking)
 
 ---
 
@@ -53,26 +49,6 @@ CLIENTIFY/
 │
 ├── .gitignore
 └── README.md
-```
-
----
-
-## Setup and Execution
-
-### Install Dependencies
-
-Frontend:
-
-```id="c5tvkq"
-cd client
-npm install
-```
-
-Backend:
-
-```id="5q8w7e"
-cd ../server
-npm install
 ```
 
 ---
@@ -107,13 +83,17 @@ npm run dev
 
 ## Screenshots
 
-Add system screenshots here to showcase UI and features:
+<p align="center">
+  <img src="./screenshots/Screenshot (53).png" width="30%" />
+  <img src="./screenshots/Screenshot (54).png" width="30%" />
+  <img src="./screenshots/Screenshot (55).png" width="30%" />
+</p>
 
-```
-/screenshots/home.png
-/screenshots/dashboard.png
-/screenshots/analysis.png
-```
+<p align="center">
+  <img src="./screenshots/Screenshot (56).png" width="30%" />
+  <img src="./screenshots/Screenshot (57).png" width="30%" />
+  <img src="./screenshots/Screenshot (58).png" width="30%" />
+</p>
 
 ---
 
